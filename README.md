@@ -1,1 +1,1 @@
-Juego de un tragamonedas muy sencillo, con tematica de Fallout. 
+Juego de una tragamonedas muy sencillo, con tematica de Fallout. 

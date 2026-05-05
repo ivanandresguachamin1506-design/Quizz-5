@@ -1,2 +1,1 @@
-Pequeñio sistemna de gym
-
+Pequeño sistema de experiencia de gym 
